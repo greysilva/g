@@ -1,2 +1,1 @@
-# g
-portal do futuro senac
+senac (portal do futuro)
